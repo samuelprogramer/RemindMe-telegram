@@ -14,6 +14,8 @@ source remindme-env/bin/activate
 ```
 
 
+Copie o .eve.exemple e coloque seus dados
+Copie a pasta remindList e faca sua lista
 
 
 
